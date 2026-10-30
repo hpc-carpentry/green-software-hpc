@@ -8,13 +8,13 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
-carpentry: 'incubator'
+carpentry: 'hpcc'
 
 # Overall title for pages.
-title: 'Green software use on HPC'
+title: 'Green Software Use on HPC'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 
+created: 2024-12-23
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, environment'
@@ -27,7 +27,7 @@ life_cycle: 'stable'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/EPCCed/2026-10-02_green-hpc_cambridge'
+source: 'https://github.com/hpc-carpentry/green-software-hpc'
 
 # Default branch of your lesson
 branch: 'main'
@@ -85,7 +85,6 @@ profiles:
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
 
-
+url: "https://hpc-carpentry.github.io/green-software-hpc"
 analytics: carpentries
 lang: en
-workbench-beta: yes
